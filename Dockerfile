@@ -16,7 +16,7 @@ COPY . .
 # Expose the port on which the Flask app will run
 EXPOSE 8081
 
-RUN apt-get update && apt-get install -y curl
+#RUN apt-get update && apt-get install -y curl
 
 
 # Set the environment variable
