@@ -19,6 +19,7 @@ EXPOSE 8081
 #RUN apt-get update && apt-get install -y curl
 
 
+
 # Set the environment variable
 
 # Run the Flask application
